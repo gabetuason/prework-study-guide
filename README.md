@@ -4,7 +4,7 @@
 
 The purpose of the project is to help me understand and remember important concepts for Java, HTML, CSS and Git.
 These notes provides definitions such as head and body for CSS. Furthermore, it showcases gitflow steps for changes in feature branch to be merged with main.
-I want to addapt a growth mindset and pursue coding environment.
+I want to adapt a growth mindset and pursue coding environment.
 
 ## Installation
 
